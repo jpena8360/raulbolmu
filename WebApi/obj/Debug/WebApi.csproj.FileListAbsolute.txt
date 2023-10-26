@@ -1,0 +1,558 @@
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD API REST\ProyectoWebApi\WebApi\bin\WebApi.dll.config
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD API REST\ProyectoWebApi\WebApi\bin\WebApi.dll
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD API REST\ProyectoWebApi\WebApi\bin\WebApi.pdb
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD API REST\ProyectoWebApi\WebApi\bin\roslyn\csc.exe
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD API REST\ProyectoWebApi\WebApi\bin\roslyn\csc.exe.config
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD API REST\ProyectoWebApi\WebApi\bin\roslyn\csc.rsp
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD API REST\ProyectoWebApi\WebApi\bin\roslyn\csi.exe
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD API REST\ProyectoWebApi\WebApi\bin\roslyn\csi.exe.config
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD API REST\ProyectoWebApi\WebApi\bin\roslyn\csi.rsp
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD API REST\ProyectoWebApi\WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD API REST\ProyectoWebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD API REST\ProyectoWebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD API REST\ProyectoWebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD API REST\ProyectoWebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD API REST\ProyectoWebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD API REST\ProyectoWebApi\WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD API REST\ProyectoWebApi\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD API REST\ProyectoWebApi\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD API REST\ProyectoWebApi\WebApi\bin\roslyn\Microsoft.Managed.Core.targets
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD API REST\ProyectoWebApi\WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD API REST\ProyectoWebApi\WebApi\bin\roslyn\System.AppContext.dll
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD API REST\ProyectoWebApi\WebApi\bin\roslyn\System.Collections.Immutable.dll
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD API REST\ProyectoWebApi\WebApi\bin\roslyn\System.Console.dll
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD API REST\ProyectoWebApi\WebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD API REST\ProyectoWebApi\WebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD API REST\ProyectoWebApi\WebApi\bin\roslyn\System.IO.Compression.dll
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD API REST\ProyectoWebApi\WebApi\bin\roslyn\System.IO.FileSystem.dll
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD API REST\ProyectoWebApi\WebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD API REST\ProyectoWebApi\WebApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD API REST\ProyectoWebApi\WebApi\bin\roslyn\System.IO.Pipes.dll
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD API REST\ProyectoWebApi\WebApi\bin\roslyn\System.Reflection.Metadata.dll
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD API REST\ProyectoWebApi\WebApi\bin\roslyn\System.Security.AccessControl.dll
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD API REST\ProyectoWebApi\WebApi\bin\roslyn\System.Security.Claims.dll
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD API REST\ProyectoWebApi\WebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD API REST\ProyectoWebApi\WebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD API REST\ProyectoWebApi\WebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD API REST\ProyectoWebApi\WebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD API REST\ProyectoWebApi\WebApi\bin\roslyn\System.Security.Principal.Windows.dll
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD API REST\ProyectoWebApi\WebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD API REST\ProyectoWebApi\WebApi\bin\roslyn\System.ValueTuple.dll
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD API REST\ProyectoWebApi\WebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD API REST\ProyectoWebApi\WebApi\bin\roslyn\System.Xml.XmlDocument.dll
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD API REST\ProyectoWebApi\WebApi\bin\roslyn\System.Xml.XPath.dll
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD API REST\ProyectoWebApi\WebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD API REST\ProyectoWebApi\WebApi\bin\roslyn\vbc.exe
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD API REST\ProyectoWebApi\WebApi\bin\roslyn\vbc.exe.config
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD API REST\ProyectoWebApi\WebApi\bin\roslyn\vbc.rsp
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD API REST\ProyectoWebApi\WebApi\bin\roslyn\VBCSCompiler.exe
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD API REST\ProyectoWebApi\WebApi\bin\roslyn\VBCSCompiler.exe.config
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD API REST\ProyectoWebApi\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD API REST\ProyectoWebApi\WebApi\bin\Newtonsoft.Json.dll
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD API REST\ProyectoWebApi\WebApi\bin\System.Net.Http.Formatting.dll
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD API REST\ProyectoWebApi\WebApi\bin\System.Web.Http.dll
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD API REST\ProyectoWebApi\WebApi\bin\System.Web.Http.WebHost.dll
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD API REST\ProyectoWebApi\WebApi\bin\Newtonsoft.Json.xml
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD API REST\ProyectoWebApi\WebApi\bin\System.Net.Http.Formatting.xml
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD API REST\ProyectoWebApi\WebApi\bin\System.Web.Http.xml
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD API REST\ProyectoWebApi\WebApi\bin\System.Web.Http.WebHost.xml
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD API REST\ProyectoWebApi\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD API REST\ProyectoWebApi\WebApi\bin\es\System.Net.Http.Formatting.resources.dll
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD API REST\ProyectoWebApi\WebApi\bin\es\System.Web.Http.resources.dll
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD API REST\ProyectoWebApi\WebApi\bin\es\System.Web.Http.WebHost.resources.dll
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD API REST\ProyectoWebApi\WebApi\obj\Debug\WebApi.csprojAssemblyReference.cache
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD API REST\ProyectoWebApi\WebApi\obj\Debug\WebApi.csproj.CoreCompileInputs.cache
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD API REST\ProyectoWebApi\WebApi\obj\Debug\WebApi.csproj.CopyComplete
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD API REST\ProyectoWebApi\WebApi\obj\Debug\WebApi.dll
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD API REST\ProyectoWebApi\WebApi\obj\Debug\WebApi.pdb
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD API REST\ProyectoWebApi\WebApi\bin\System.Web.Cors.dll
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD API REST\ProyectoWebApi\WebApi\bin\System.Web.Http.Cors.dll
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD API REST\ProyectoWebApi\WebApi\bin\System.Web.Http.Cors.xml
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\webapi\ProyectoWebApi\WebApi\bin\WebApi.dll.config
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\webapi\ProyectoWebApi\WebApi\bin\WebApi.dll
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\webapi\ProyectoWebApi\WebApi\bin\WebApi.pdb
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\webapi\ProyectoWebApi\WebApi\bin\roslyn\csc.exe
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\webapi\ProyectoWebApi\WebApi\bin\roslyn\csc.exe.config
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\webapi\ProyectoWebApi\WebApi\bin\roslyn\csc.rsp
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\webapi\ProyectoWebApi\WebApi\bin\roslyn\csi.exe
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\webapi\ProyectoWebApi\WebApi\bin\roslyn\csi.exe.config
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\webapi\ProyectoWebApi\WebApi\bin\roslyn\csi.rsp
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\webapi\ProyectoWebApi\WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\webapi\ProyectoWebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\webapi\ProyectoWebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\webapi\ProyectoWebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\webapi\ProyectoWebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\webapi\ProyectoWebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\webapi\ProyectoWebApi\WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\webapi\ProyectoWebApi\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\webapi\ProyectoWebApi\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\webapi\ProyectoWebApi\WebApi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\webapi\ProyectoWebApi\WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\webapi\ProyectoWebApi\WebApi\bin\roslyn\System.AppContext.dll
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\webapi\ProyectoWebApi\WebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\webapi\ProyectoWebApi\WebApi\bin\roslyn\System.Console.dll
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\webapi\ProyectoWebApi\WebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\webapi\ProyectoWebApi\WebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\webapi\ProyectoWebApi\WebApi\bin\roslyn\System.IO.Compression.dll
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\webapi\ProyectoWebApi\WebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\webapi\ProyectoWebApi\WebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\webapi\ProyectoWebApi\WebApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\webapi\ProyectoWebApi\WebApi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\webapi\ProyectoWebApi\WebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\webapi\ProyectoWebApi\WebApi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\webapi\ProyectoWebApi\WebApi\bin\roslyn\System.Security.Claims.dll
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\webapi\ProyectoWebApi\WebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\webapi\ProyectoWebApi\WebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\webapi\ProyectoWebApi\WebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\webapi\ProyectoWebApi\WebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\webapi\ProyectoWebApi\WebApi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\webapi\ProyectoWebApi\WebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\webapi\ProyectoWebApi\WebApi\bin\roslyn\System.ValueTuple.dll
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\webapi\ProyectoWebApi\WebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\webapi\ProyectoWebApi\WebApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\webapi\ProyectoWebApi\WebApi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\webapi\ProyectoWebApi\WebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\webapi\ProyectoWebApi\WebApi\bin\roslyn\vbc.exe
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\webapi\ProyectoWebApi\WebApi\bin\roslyn\vbc.exe.config
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\webapi\ProyectoWebApi\WebApi\bin\roslyn\vbc.rsp
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\webapi\ProyectoWebApi\WebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\webapi\ProyectoWebApi\WebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\webapi\ProyectoWebApi\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\webapi\ProyectoWebApi\WebApi\bin\Newtonsoft.Json.dll
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\webapi\ProyectoWebApi\WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\webapi\ProyectoWebApi\WebApi\bin\System.Web.Cors.dll
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\webapi\ProyectoWebApi\WebApi\bin\System.Web.Http.Cors.dll
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\webapi\ProyectoWebApi\WebApi\bin\System.Web.Http.dll
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\webapi\ProyectoWebApi\WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\webapi\ProyectoWebApi\WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\webapi\ProyectoWebApi\WebApi\bin\System.Web.Http.xml
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\webapi\ProyectoWebApi\WebApi\bin\System.Web.Http.Cors.xml
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\webapi\ProyectoWebApi\WebApi\bin\Newtonsoft.Json.xml
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\webapi\ProyectoWebApi\WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\webapi\ProyectoWebApi\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\webapi\ProyectoWebApi\WebApi\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\webapi\ProyectoWebApi\WebApi\bin\es\System.Web.Http.resources.dll
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\webapi\ProyectoWebApi\WebApi\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\webapi\ProyectoWebApi\WebApi\obj\Debug\WebApi.csprojAssemblyReference.cache
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\webapi\ProyectoWebApi\WebApi\obj\Debug\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\webapi\ProyectoWebApi\WebApi\obj\Debug\WebApi.csproj.CopyComplete
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\webapi\ProyectoWebApi\WebApi\obj\Debug\WebApi.dll
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\webapi\ProyectoWebApi\WebApi\obj\Debug\WebApi.pdb
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\PruebaPractica\ProyectoWebApi\WebApi\bin\WebApi.dll.config
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\PruebaPractica\ProyectoWebApi\WebApi\bin\WebApi.dll
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\PruebaPractica\ProyectoWebApi\WebApi\bin\WebApi.pdb
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\PruebaPractica\ProyectoWebApi\WebApi\bin\roslyn\csc.exe
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\PruebaPractica\ProyectoWebApi\WebApi\bin\roslyn\csc.exe.config
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\PruebaPractica\ProyectoWebApi\WebApi\bin\roslyn\csc.rsp
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\PruebaPractica\ProyectoWebApi\WebApi\bin\roslyn\csi.exe
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\PruebaPractica\ProyectoWebApi\WebApi\bin\roslyn\csi.exe.config
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\PruebaPractica\ProyectoWebApi\WebApi\bin\roslyn\csi.rsp
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\PruebaPractica\ProyectoWebApi\WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\PruebaPractica\ProyectoWebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\PruebaPractica\ProyectoWebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\PruebaPractica\ProyectoWebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\PruebaPractica\ProyectoWebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\PruebaPractica\ProyectoWebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\PruebaPractica\ProyectoWebApi\WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\PruebaPractica\ProyectoWebApi\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\PruebaPractica\ProyectoWebApi\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\PruebaPractica\ProyectoWebApi\WebApi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\PruebaPractica\ProyectoWebApi\WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\PruebaPractica\ProyectoWebApi\WebApi\bin\roslyn\System.AppContext.dll
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\PruebaPractica\ProyectoWebApi\WebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\PruebaPractica\ProyectoWebApi\WebApi\bin\roslyn\System.Console.dll
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\PruebaPractica\ProyectoWebApi\WebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\PruebaPractica\ProyectoWebApi\WebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\PruebaPractica\ProyectoWebApi\WebApi\bin\roslyn\System.IO.Compression.dll
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\PruebaPractica\ProyectoWebApi\WebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\PruebaPractica\ProyectoWebApi\WebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\PruebaPractica\ProyectoWebApi\WebApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\PruebaPractica\ProyectoWebApi\WebApi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\PruebaPractica\ProyectoWebApi\WebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\PruebaPractica\ProyectoWebApi\WebApi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\PruebaPractica\ProyectoWebApi\WebApi\bin\roslyn\System.Security.Claims.dll
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\PruebaPractica\ProyectoWebApi\WebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\PruebaPractica\ProyectoWebApi\WebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\PruebaPractica\ProyectoWebApi\WebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\PruebaPractica\ProyectoWebApi\WebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\PruebaPractica\ProyectoWebApi\WebApi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\PruebaPractica\ProyectoWebApi\WebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\PruebaPractica\ProyectoWebApi\WebApi\bin\roslyn\System.ValueTuple.dll
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\PruebaPractica\ProyectoWebApi\WebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\PruebaPractica\ProyectoWebApi\WebApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\PruebaPractica\ProyectoWebApi\WebApi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\PruebaPractica\ProyectoWebApi\WebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\PruebaPractica\ProyectoWebApi\WebApi\bin\roslyn\vbc.exe
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\PruebaPractica\ProyectoWebApi\WebApi\bin\roslyn\vbc.exe.config
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\PruebaPractica\ProyectoWebApi\WebApi\bin\roslyn\vbc.rsp
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\PruebaPractica\ProyectoWebApi\WebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\PruebaPractica\ProyectoWebApi\WebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\PruebaPractica\ProyectoWebApi\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\PruebaPractica\ProyectoWebApi\WebApi\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\PruebaPractica\ProyectoWebApi\WebApi\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\PruebaPractica\ProyectoWebApi\WebApi\bin\Newtonsoft.Json.dll
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\PruebaPractica\ProyectoWebApi\WebApi\bin\Swashbuckle.Core.dll
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\PruebaPractica\ProyectoWebApi\WebApi\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\PruebaPractica\ProyectoWebApi\WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\PruebaPractica\ProyectoWebApi\WebApi\bin\System.Web.Cors.dll
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\PruebaPractica\ProyectoWebApi\WebApi\bin\System.Web.Http.Cors.dll
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\PruebaPractica\ProyectoWebApi\WebApi\bin\System.Web.Http.dll
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\PruebaPractica\ProyectoWebApi\WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\PruebaPractica\ProyectoWebApi\WebApi\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\PruebaPractica\ProyectoWebApi\WebApi\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\PruebaPractica\ProyectoWebApi\WebApi\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\PruebaPractica\ProyectoWebApi\WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\PruebaPractica\ProyectoWebApi\WebApi\bin\System.Web.Http.xml
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\PruebaPractica\ProyectoWebApi\WebApi\bin\System.Web.Http.Cors.xml
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\PruebaPractica\ProyectoWebApi\WebApi\bin\Newtonsoft.Json.xml
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\PruebaPractica\ProyectoWebApi\WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\PruebaPractica\ProyectoWebApi\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\PruebaPractica\ProyectoWebApi\WebApi\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\PruebaPractica\ProyectoWebApi\WebApi\bin\es\System.Web.Http.resources.dll
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\PruebaPractica\ProyectoWebApi\WebApi\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\PruebaPractica\ProyectoWebApi\WebApi\obj\Debug\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\PruebaPractica\ProyectoWebApi\WebApi\obj\Debug\WebApi.csproj.CopyComplete
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\PruebaPractica\ProyectoWebApi\WebApi\obj\Debug\WebApi.dll
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\PruebaPractica\ProyectoWebApi\WebApi\obj\Debug\WebApi.pdb
+C:\Users\Raul\Documents\Visual Studio 2019\Proyectos\PruebaPractica\ProyectoWebApi\WebApi\obj\Debug\WebApi.csprojAssemblyReference.cache
+C:\Escritorio\Raul\4_Pruebas Desarrollos\CrudEmpleados\ProyectoWebApi\WebApi\bin\WebApi.dll.config
+C:\Escritorio\Raul\4_Pruebas Desarrollos\CrudEmpleados\ProyectoWebApi\WebApi\bin\WebApi.dll
+C:\Escritorio\Raul\4_Pruebas Desarrollos\CrudEmpleados\ProyectoWebApi\WebApi\bin\WebApi.pdb
+C:\Escritorio\Raul\4_Pruebas Desarrollos\CrudEmpleados\ProyectoWebApi\WebApi\bin\roslyn\csc.exe
+C:\Escritorio\Raul\4_Pruebas Desarrollos\CrudEmpleados\ProyectoWebApi\WebApi\bin\roslyn\csc.exe.config
+C:\Escritorio\Raul\4_Pruebas Desarrollos\CrudEmpleados\ProyectoWebApi\WebApi\bin\roslyn\csc.rsp
+C:\Escritorio\Raul\4_Pruebas Desarrollos\CrudEmpleados\ProyectoWebApi\WebApi\bin\roslyn\csi.exe
+C:\Escritorio\Raul\4_Pruebas Desarrollos\CrudEmpleados\ProyectoWebApi\WebApi\bin\roslyn\csi.exe.config
+C:\Escritorio\Raul\4_Pruebas Desarrollos\CrudEmpleados\ProyectoWebApi\WebApi\bin\roslyn\csi.rsp
+C:\Escritorio\Raul\4_Pruebas Desarrollos\CrudEmpleados\ProyectoWebApi\WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Escritorio\Raul\4_Pruebas Desarrollos\CrudEmpleados\ProyectoWebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Escritorio\Raul\4_Pruebas Desarrollos\CrudEmpleados\ProyectoWebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Escritorio\Raul\4_Pruebas Desarrollos\CrudEmpleados\ProyectoWebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Escritorio\Raul\4_Pruebas Desarrollos\CrudEmpleados\ProyectoWebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Escritorio\Raul\4_Pruebas Desarrollos\CrudEmpleados\ProyectoWebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Escritorio\Raul\4_Pruebas Desarrollos\CrudEmpleados\ProyectoWebApi\WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Escritorio\Raul\4_Pruebas Desarrollos\CrudEmpleados\ProyectoWebApi\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Escritorio\Raul\4_Pruebas Desarrollos\CrudEmpleados\ProyectoWebApi\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Escritorio\Raul\4_Pruebas Desarrollos\CrudEmpleados\ProyectoWebApi\WebApi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Escritorio\Raul\4_Pruebas Desarrollos\CrudEmpleados\ProyectoWebApi\WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Escritorio\Raul\4_Pruebas Desarrollos\CrudEmpleados\ProyectoWebApi\WebApi\bin\roslyn\System.AppContext.dll
+C:\Escritorio\Raul\4_Pruebas Desarrollos\CrudEmpleados\ProyectoWebApi\WebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Escritorio\Raul\4_Pruebas Desarrollos\CrudEmpleados\ProyectoWebApi\WebApi\bin\roslyn\System.Console.dll
+C:\Escritorio\Raul\4_Pruebas Desarrollos\CrudEmpleados\ProyectoWebApi\WebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Escritorio\Raul\4_Pruebas Desarrollos\CrudEmpleados\ProyectoWebApi\WebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Escritorio\Raul\4_Pruebas Desarrollos\CrudEmpleados\ProyectoWebApi\WebApi\bin\roslyn\System.IO.Compression.dll
+C:\Escritorio\Raul\4_Pruebas Desarrollos\CrudEmpleados\ProyectoWebApi\WebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Escritorio\Raul\4_Pruebas Desarrollos\CrudEmpleados\ProyectoWebApi\WebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Escritorio\Raul\4_Pruebas Desarrollos\CrudEmpleados\ProyectoWebApi\WebApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Escritorio\Raul\4_Pruebas Desarrollos\CrudEmpleados\ProyectoWebApi\WebApi\bin\roslyn\System.IO.Pipes.dll
+C:\Escritorio\Raul\4_Pruebas Desarrollos\CrudEmpleados\ProyectoWebApi\WebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Escritorio\Raul\4_Pruebas Desarrollos\CrudEmpleados\ProyectoWebApi\WebApi\bin\roslyn\System.Security.AccessControl.dll
+C:\Escritorio\Raul\4_Pruebas Desarrollos\CrudEmpleados\ProyectoWebApi\WebApi\bin\roslyn\System.Security.Claims.dll
+C:\Escritorio\Raul\4_Pruebas Desarrollos\CrudEmpleados\ProyectoWebApi\WebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Escritorio\Raul\4_Pruebas Desarrollos\CrudEmpleados\ProyectoWebApi\WebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Escritorio\Raul\4_Pruebas Desarrollos\CrudEmpleados\ProyectoWebApi\WebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Escritorio\Raul\4_Pruebas Desarrollos\CrudEmpleados\ProyectoWebApi\WebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Escritorio\Raul\4_Pruebas Desarrollos\CrudEmpleados\ProyectoWebApi\WebApi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Escritorio\Raul\4_Pruebas Desarrollos\CrudEmpleados\ProyectoWebApi\WebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Escritorio\Raul\4_Pruebas Desarrollos\CrudEmpleados\ProyectoWebApi\WebApi\bin\roslyn\System.ValueTuple.dll
+C:\Escritorio\Raul\4_Pruebas Desarrollos\CrudEmpleados\ProyectoWebApi\WebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Escritorio\Raul\4_Pruebas Desarrollos\CrudEmpleados\ProyectoWebApi\WebApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Escritorio\Raul\4_Pruebas Desarrollos\CrudEmpleados\ProyectoWebApi\WebApi\bin\roslyn\System.Xml.XPath.dll
+C:\Escritorio\Raul\4_Pruebas Desarrollos\CrudEmpleados\ProyectoWebApi\WebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Escritorio\Raul\4_Pruebas Desarrollos\CrudEmpleados\ProyectoWebApi\WebApi\bin\roslyn\vbc.exe
+C:\Escritorio\Raul\4_Pruebas Desarrollos\CrudEmpleados\ProyectoWebApi\WebApi\bin\roslyn\vbc.exe.config
+C:\Escritorio\Raul\4_Pruebas Desarrollos\CrudEmpleados\ProyectoWebApi\WebApi\bin\roslyn\vbc.rsp
+C:\Escritorio\Raul\4_Pruebas Desarrollos\CrudEmpleados\ProyectoWebApi\WebApi\bin\roslyn\VBCSCompiler.exe
+C:\Escritorio\Raul\4_Pruebas Desarrollos\CrudEmpleados\ProyectoWebApi\WebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Escritorio\Raul\4_Pruebas Desarrollos\CrudEmpleados\ProyectoWebApi\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Escritorio\Raul\4_Pruebas Desarrollos\CrudEmpleados\ProyectoWebApi\WebApi\bin\Microsoft.IdentityModel.Logging.dll
+C:\Escritorio\Raul\4_Pruebas Desarrollos\CrudEmpleados\ProyectoWebApi\WebApi\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Escritorio\Raul\4_Pruebas Desarrollos\CrudEmpleados\ProyectoWebApi\WebApi\bin\Newtonsoft.Json.dll
+C:\Escritorio\Raul\4_Pruebas Desarrollos\CrudEmpleados\ProyectoWebApi\WebApi\bin\System.Net.Http.Formatting.dll
+C:\Escritorio\Raul\4_Pruebas Desarrollos\CrudEmpleados\ProyectoWebApi\WebApi\bin\System.Web.Cors.dll
+C:\Escritorio\Raul\4_Pruebas Desarrollos\CrudEmpleados\ProyectoWebApi\WebApi\bin\System.Web.Http.Cors.dll
+C:\Escritorio\Raul\4_Pruebas Desarrollos\CrudEmpleados\ProyectoWebApi\WebApi\bin\System.Web.Http.dll
+C:\Escritorio\Raul\4_Pruebas Desarrollos\CrudEmpleados\ProyectoWebApi\WebApi\bin\System.Web.Http.WebHost.dll
+C:\Escritorio\Raul\4_Pruebas Desarrollos\CrudEmpleados\ProyectoWebApi\WebApi\bin\Microsoft.IdentityModel.Logging.xml
+C:\Escritorio\Raul\4_Pruebas Desarrollos\CrudEmpleados\ProyectoWebApi\WebApi\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Escritorio\Raul\4_Pruebas Desarrollos\CrudEmpleados\ProyectoWebApi\WebApi\bin\System.Net.Http.Formatting.xml
+C:\Escritorio\Raul\4_Pruebas Desarrollos\CrudEmpleados\ProyectoWebApi\WebApi\bin\System.Web.Http.xml
+C:\Escritorio\Raul\4_Pruebas Desarrollos\CrudEmpleados\ProyectoWebApi\WebApi\bin\System.Web.Http.Cors.xml
+C:\Escritorio\Raul\4_Pruebas Desarrollos\CrudEmpleados\ProyectoWebApi\WebApi\bin\Newtonsoft.Json.xml
+C:\Escritorio\Raul\4_Pruebas Desarrollos\CrudEmpleados\ProyectoWebApi\WebApi\bin\System.Web.Http.WebHost.xml
+C:\Escritorio\Raul\4_Pruebas Desarrollos\CrudEmpleados\ProyectoWebApi\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Escritorio\Raul\4_Pruebas Desarrollos\CrudEmpleados\ProyectoWebApi\WebApi\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Escritorio\Raul\4_Pruebas Desarrollos\CrudEmpleados\ProyectoWebApi\WebApi\bin\es\System.Web.Http.resources.dll
+C:\Escritorio\Raul\4_Pruebas Desarrollos\CrudEmpleados\ProyectoWebApi\WebApi\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Escritorio\Raul\4_Pruebas Desarrollos\CrudEmpleados\ProyectoWebApi\WebApi\obj\Debug\WebApi.csproj.AssemblyReference.cache
+C:\Escritorio\Raul\4_Pruebas Desarrollos\CrudEmpleados\ProyectoWebApi\WebApi\obj\Debug\WebApi.csproj.CoreCompileInputs.cache
+C:\Escritorio\Raul\4_Pruebas Desarrollos\CrudEmpleados\ProyectoWebApi\WebApi\obj\Debug\WebApi.csproj.CopyComplete
+C:\Escritorio\Raul\4_Pruebas Desarrollos\CrudEmpleados\ProyectoWebApi\WebApi\obj\Debug\WebApi.dll
+C:\Escritorio\Raul\4_Pruebas Desarrollos\CrudEmpleados\ProyectoWebApi\WebApi\obj\Debug\WebApi.pdb
+C:\Users\Raul\Desktop\Prueba Algar Tech\ProyectoWebApi\WebApi\bin\WebApi.dll.config
+C:\Users\Raul\Desktop\Prueba Algar Tech\ProyectoWebApi\WebApi\bin\WebApi.dll
+C:\Users\Raul\Desktop\Prueba Algar Tech\ProyectoWebApi\WebApi\bin\WebApi.pdb
+C:\Users\Raul\Desktop\Prueba Algar Tech\ProyectoWebApi\WebApi\bin\roslyn\csc.exe
+C:\Users\Raul\Desktop\Prueba Algar Tech\ProyectoWebApi\WebApi\bin\roslyn\csc.exe.config
+C:\Users\Raul\Desktop\Prueba Algar Tech\ProyectoWebApi\WebApi\bin\roslyn\csc.rsp
+C:\Users\Raul\Desktop\Prueba Algar Tech\ProyectoWebApi\WebApi\bin\roslyn\csi.exe
+C:\Users\Raul\Desktop\Prueba Algar Tech\ProyectoWebApi\WebApi\bin\roslyn\csi.exe.config
+C:\Users\Raul\Desktop\Prueba Algar Tech\ProyectoWebApi\WebApi\bin\roslyn\csi.rsp
+C:\Users\Raul\Desktop\Prueba Algar Tech\ProyectoWebApi\WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Raul\Desktop\Prueba Algar Tech\ProyectoWebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Raul\Desktop\Prueba Algar Tech\ProyectoWebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Raul\Desktop\Prueba Algar Tech\ProyectoWebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Raul\Desktop\Prueba Algar Tech\ProyectoWebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Raul\Desktop\Prueba Algar Tech\ProyectoWebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Raul\Desktop\Prueba Algar Tech\ProyectoWebApi\WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Raul\Desktop\Prueba Algar Tech\ProyectoWebApi\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Raul\Desktop\Prueba Algar Tech\ProyectoWebApi\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Raul\Desktop\Prueba Algar Tech\ProyectoWebApi\WebApi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Raul\Desktop\Prueba Algar Tech\ProyectoWebApi\WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Raul\Desktop\Prueba Algar Tech\ProyectoWebApi\WebApi\bin\roslyn\System.AppContext.dll
+C:\Users\Raul\Desktop\Prueba Algar Tech\ProyectoWebApi\WebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Raul\Desktop\Prueba Algar Tech\ProyectoWebApi\WebApi\bin\roslyn\System.Console.dll
+C:\Users\Raul\Desktop\Prueba Algar Tech\ProyectoWebApi\WebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Raul\Desktop\Prueba Algar Tech\ProyectoWebApi\WebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Raul\Desktop\Prueba Algar Tech\ProyectoWebApi\WebApi\bin\roslyn\System.IO.Compression.dll
+C:\Users\Raul\Desktop\Prueba Algar Tech\ProyectoWebApi\WebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Raul\Desktop\Prueba Algar Tech\ProyectoWebApi\WebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Raul\Desktop\Prueba Algar Tech\ProyectoWebApi\WebApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Raul\Desktop\Prueba Algar Tech\ProyectoWebApi\WebApi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Raul\Desktop\Prueba Algar Tech\ProyectoWebApi\WebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Raul\Desktop\Prueba Algar Tech\ProyectoWebApi\WebApi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Raul\Desktop\Prueba Algar Tech\ProyectoWebApi\WebApi\bin\roslyn\System.Security.Claims.dll
+C:\Users\Raul\Desktop\Prueba Algar Tech\ProyectoWebApi\WebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Raul\Desktop\Prueba Algar Tech\ProyectoWebApi\WebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Raul\Desktop\Prueba Algar Tech\ProyectoWebApi\WebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Raul\Desktop\Prueba Algar Tech\ProyectoWebApi\WebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Raul\Desktop\Prueba Algar Tech\ProyectoWebApi\WebApi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Raul\Desktop\Prueba Algar Tech\ProyectoWebApi\WebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Raul\Desktop\Prueba Algar Tech\ProyectoWebApi\WebApi\bin\roslyn\System.ValueTuple.dll
+C:\Users\Raul\Desktop\Prueba Algar Tech\ProyectoWebApi\WebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Raul\Desktop\Prueba Algar Tech\ProyectoWebApi\WebApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Raul\Desktop\Prueba Algar Tech\ProyectoWebApi\WebApi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Raul\Desktop\Prueba Algar Tech\ProyectoWebApi\WebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Raul\Desktop\Prueba Algar Tech\ProyectoWebApi\WebApi\bin\roslyn\vbc.exe
+C:\Users\Raul\Desktop\Prueba Algar Tech\ProyectoWebApi\WebApi\bin\roslyn\vbc.exe.config
+C:\Users\Raul\Desktop\Prueba Algar Tech\ProyectoWebApi\WebApi\bin\roslyn\vbc.rsp
+C:\Users\Raul\Desktop\Prueba Algar Tech\ProyectoWebApi\WebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\Raul\Desktop\Prueba Algar Tech\ProyectoWebApi\WebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Raul\Desktop\Prueba Algar Tech\ProyectoWebApi\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Raul\Desktop\Prueba Algar Tech\ProyectoWebApi\WebApi\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\Raul\Desktop\Prueba Algar Tech\ProyectoWebApi\WebApi\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Raul\Desktop\Prueba Algar Tech\ProyectoWebApi\WebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Raul\Desktop\Prueba Algar Tech\ProyectoWebApi\WebApi\bin\model.entity.dll
+C:\Users\Raul\Desktop\Prueba Algar Tech\ProyectoWebApi\WebApi\bin\Newtonsoft.Json.dll
+C:\Users\Raul\Desktop\Prueba Algar Tech\ProyectoWebApi\WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\Raul\Desktop\Prueba Algar Tech\ProyectoWebApi\WebApi\bin\System.Web.Cors.dll
+C:\Users\Raul\Desktop\Prueba Algar Tech\ProyectoWebApi\WebApi\bin\System.Web.Helpers.dll
+C:\Users\Raul\Desktop\Prueba Algar Tech\ProyectoWebApi\WebApi\bin\System.Web.Http.Cors.dll
+C:\Users\Raul\Desktop\Prueba Algar Tech\ProyectoWebApi\WebApi\bin\System.Web.Http.dll
+C:\Users\Raul\Desktop\Prueba Algar Tech\ProyectoWebApi\WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\Raul\Desktop\Prueba Algar Tech\ProyectoWebApi\WebApi\bin\System.Web.Mvc.dll
+C:\Users\Raul\Desktop\Prueba Algar Tech\ProyectoWebApi\WebApi\bin\System.Web.Mvc.Extensions.dll
+C:\Users\Raul\Desktop\Prueba Algar Tech\ProyectoWebApi\WebApi\bin\System.Web.Razor.dll
+C:\Users\Raul\Desktop\Prueba Algar Tech\ProyectoWebApi\WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Raul\Desktop\Prueba Algar Tech\ProyectoWebApi\WebApi\bin\System.Web.WebPages.dll
+C:\Users\Raul\Desktop\Prueba Algar Tech\ProyectoWebApi\WebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\Raul\Desktop\Prueba Algar Tech\ProyectoWebApi\WebApi\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\Raul\Desktop\Prueba Algar Tech\ProyectoWebApi\WebApi\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Raul\Desktop\Prueba Algar Tech\ProyectoWebApi\WebApi\bin\model.entity.pdb
+C:\Users\Raul\Desktop\Prueba Algar Tech\ProyectoWebApi\WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\Raul\Desktop\Prueba Algar Tech\ProyectoWebApi\WebApi\bin\System.Web.Helpers.xml
+C:\Users\Raul\Desktop\Prueba Algar Tech\ProyectoWebApi\WebApi\bin\System.Web.Http.xml
+C:\Users\Raul\Desktop\Prueba Algar Tech\ProyectoWebApi\WebApi\bin\System.Web.Http.Cors.xml
+C:\Users\Raul\Desktop\Prueba Algar Tech\ProyectoWebApi\WebApi\bin\System.Web.Mvc.xml
+C:\Users\Raul\Desktop\Prueba Algar Tech\ProyectoWebApi\WebApi\bin\System.Web.Mvc.Extensions.xml
+C:\Users\Raul\Desktop\Prueba Algar Tech\ProyectoWebApi\WebApi\bin\System.Web.Razor.xml
+C:\Users\Raul\Desktop\Prueba Algar Tech\ProyectoWebApi\WebApi\bin\System.Web.WebPages.xml
+C:\Users\Raul\Desktop\Prueba Algar Tech\ProyectoWebApi\WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Raul\Desktop\Prueba Algar Tech\ProyectoWebApi\WebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\Raul\Desktop\Prueba Algar Tech\ProyectoWebApi\WebApi\bin\Newtonsoft.Json.xml
+C:\Users\Raul\Desktop\Prueba Algar Tech\ProyectoWebApi\WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\Raul\Desktop\Prueba Algar Tech\ProyectoWebApi\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Raul\Desktop\Prueba Algar Tech\ProyectoWebApi\WebApi\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Raul\Desktop\Prueba Algar Tech\ProyectoWebApi\WebApi\bin\es\System.Web.Http.resources.dll
+C:\Users\Raul\Desktop\Prueba Algar Tech\ProyectoWebApi\WebApi\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Raul\Desktop\Prueba Algar Tech\ProyectoWebApi\WebApi\obj\Debug\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Raul\Desktop\Prueba Algar Tech\ProyectoWebApi\WebApi\obj\Debug\WebApi.csproj.CopyComplete
+C:\Users\Raul\Desktop\Prueba Algar Tech\ProyectoWebApi\WebApi\obj\Debug\WebApi.dll
+C:\Users\Raul\Desktop\Prueba Algar Tech\ProyectoWebApi\WebApi\obj\Debug\WebApi.pdb
+C:\Users\Raul\Desktop\Prueba\ProyectoWebApi\WebApi\bin\WebApi.dll.config
+C:\Users\Raul\Desktop\Prueba\ProyectoWebApi\WebApi\bin\WebApi.dll
+C:\Users\Raul\Desktop\Prueba\ProyectoWebApi\WebApi\bin\WebApi.pdb
+C:\Users\Raul\Desktop\Prueba\ProyectoWebApi\WebApi\bin\roslyn\csc.exe
+C:\Users\Raul\Desktop\Prueba\ProyectoWebApi\WebApi\bin\roslyn\csc.exe.config
+C:\Users\Raul\Desktop\Prueba\ProyectoWebApi\WebApi\bin\roslyn\csc.rsp
+C:\Users\Raul\Desktop\Prueba\ProyectoWebApi\WebApi\bin\roslyn\csi.exe
+C:\Users\Raul\Desktop\Prueba\ProyectoWebApi\WebApi\bin\roslyn\csi.exe.config
+C:\Users\Raul\Desktop\Prueba\ProyectoWebApi\WebApi\bin\roslyn\csi.rsp
+C:\Users\Raul\Desktop\Prueba\ProyectoWebApi\WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Raul\Desktop\Prueba\ProyectoWebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Raul\Desktop\Prueba\ProyectoWebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Raul\Desktop\Prueba\ProyectoWebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Raul\Desktop\Prueba\ProyectoWebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Raul\Desktop\Prueba\ProyectoWebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Raul\Desktop\Prueba\ProyectoWebApi\WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Raul\Desktop\Prueba\ProyectoWebApi\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Raul\Desktop\Prueba\ProyectoWebApi\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Raul\Desktop\Prueba\ProyectoWebApi\WebApi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Raul\Desktop\Prueba\ProyectoWebApi\WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Raul\Desktop\Prueba\ProyectoWebApi\WebApi\bin\roslyn\System.AppContext.dll
+C:\Users\Raul\Desktop\Prueba\ProyectoWebApi\WebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Raul\Desktop\Prueba\ProyectoWebApi\WebApi\bin\roslyn\System.Console.dll
+C:\Users\Raul\Desktop\Prueba\ProyectoWebApi\WebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Raul\Desktop\Prueba\ProyectoWebApi\WebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Raul\Desktop\Prueba\ProyectoWebApi\WebApi\bin\roslyn\System.IO.Compression.dll
+C:\Users\Raul\Desktop\Prueba\ProyectoWebApi\WebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Raul\Desktop\Prueba\ProyectoWebApi\WebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Raul\Desktop\Prueba\ProyectoWebApi\WebApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Raul\Desktop\Prueba\ProyectoWebApi\WebApi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Raul\Desktop\Prueba\ProyectoWebApi\WebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Raul\Desktop\Prueba\ProyectoWebApi\WebApi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Raul\Desktop\Prueba\ProyectoWebApi\WebApi\bin\roslyn\System.Security.Claims.dll
+C:\Users\Raul\Desktop\Prueba\ProyectoWebApi\WebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Raul\Desktop\Prueba\ProyectoWebApi\WebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Raul\Desktop\Prueba\ProyectoWebApi\WebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Raul\Desktop\Prueba\ProyectoWebApi\WebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Raul\Desktop\Prueba\ProyectoWebApi\WebApi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Raul\Desktop\Prueba\ProyectoWebApi\WebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Raul\Desktop\Prueba\ProyectoWebApi\WebApi\bin\roslyn\System.ValueTuple.dll
+C:\Users\Raul\Desktop\Prueba\ProyectoWebApi\WebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Raul\Desktop\Prueba\ProyectoWebApi\WebApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Raul\Desktop\Prueba\ProyectoWebApi\WebApi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Raul\Desktop\Prueba\ProyectoWebApi\WebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Raul\Desktop\Prueba\ProyectoWebApi\WebApi\bin\roslyn\vbc.exe
+C:\Users\Raul\Desktop\Prueba\ProyectoWebApi\WebApi\bin\roslyn\vbc.exe.config
+C:\Users\Raul\Desktop\Prueba\ProyectoWebApi\WebApi\bin\roslyn\vbc.rsp
+C:\Users\Raul\Desktop\Prueba\ProyectoWebApi\WebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\Raul\Desktop\Prueba\ProyectoWebApi\WebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Raul\Desktop\Prueba\ProyectoWebApi\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Raul\Desktop\Prueba\ProyectoWebApi\WebApi\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\Raul\Desktop\Prueba\ProyectoWebApi\WebApi\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Raul\Desktop\Prueba\ProyectoWebApi\WebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Raul\Desktop\Prueba\ProyectoWebApi\WebApi\bin\Newtonsoft.Json.dll
+C:\Users\Raul\Desktop\Prueba\ProyectoWebApi\WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\Raul\Desktop\Prueba\ProyectoWebApi\WebApi\bin\System.Web.Cors.dll
+C:\Users\Raul\Desktop\Prueba\ProyectoWebApi\WebApi\bin\System.Web.Helpers.dll
+C:\Users\Raul\Desktop\Prueba\ProyectoWebApi\WebApi\bin\System.Web.Http.Cors.dll
+C:\Users\Raul\Desktop\Prueba\ProyectoWebApi\WebApi\bin\System.Web.Http.dll
+C:\Users\Raul\Desktop\Prueba\ProyectoWebApi\WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\Raul\Desktop\Prueba\ProyectoWebApi\WebApi\bin\System.Web.Mvc.dll
+C:\Users\Raul\Desktop\Prueba\ProyectoWebApi\WebApi\bin\System.Web.Mvc.Extensions.dll
+C:\Users\Raul\Desktop\Prueba\ProyectoWebApi\WebApi\bin\System.Web.Razor.dll
+C:\Users\Raul\Desktop\Prueba\ProyectoWebApi\WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Raul\Desktop\Prueba\ProyectoWebApi\WebApi\bin\System.Web.WebPages.dll
+C:\Users\Raul\Desktop\Prueba\ProyectoWebApi\WebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\Raul\Desktop\Prueba\ProyectoWebApi\WebApi\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\Raul\Desktop\Prueba\ProyectoWebApi\WebApi\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Raul\Desktop\Prueba\ProyectoWebApi\WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\Raul\Desktop\Prueba\ProyectoWebApi\WebApi\bin\System.Web.Helpers.xml
+C:\Users\Raul\Desktop\Prueba\ProyectoWebApi\WebApi\bin\System.Web.Http.xml
+C:\Users\Raul\Desktop\Prueba\ProyectoWebApi\WebApi\bin\System.Web.Http.Cors.xml
+C:\Users\Raul\Desktop\Prueba\ProyectoWebApi\WebApi\bin\System.Web.Mvc.xml
+C:\Users\Raul\Desktop\Prueba\ProyectoWebApi\WebApi\bin\System.Web.Mvc.Extensions.xml
+C:\Users\Raul\Desktop\Prueba\ProyectoWebApi\WebApi\bin\System.Web.Razor.xml
+C:\Users\Raul\Desktop\Prueba\ProyectoWebApi\WebApi\bin\System.Web.WebPages.xml
+C:\Users\Raul\Desktop\Prueba\ProyectoWebApi\WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Raul\Desktop\Prueba\ProyectoWebApi\WebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\Raul\Desktop\Prueba\ProyectoWebApi\WebApi\bin\Newtonsoft.Json.xml
+C:\Users\Raul\Desktop\Prueba\ProyectoWebApi\WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\Raul\Desktop\Prueba\ProyectoWebApi\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Raul\Desktop\Prueba\ProyectoWebApi\WebApi\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Raul\Desktop\Prueba\ProyectoWebApi\WebApi\bin\es\System.Web.Http.resources.dll
+C:\Users\Raul\Desktop\Prueba\ProyectoWebApi\WebApi\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Raul\Desktop\Prueba\ProyectoWebApi\WebApi\obj\Debug\WebApi.csproj.AssemblyReference.cache
+C:\Users\Raul\Desktop\Prueba\ProyectoWebApi\WebApi\obj\Debug\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Raul\Desktop\Prueba\ProyectoWebApi\WebApi\obj\Debug\WebApi.csproj.CopyComplete
+C:\Users\Raul\Desktop\Prueba\ProyectoWebApi\WebApi\obj\Debug\WebApi.dll
+C:\Users\Raul\Desktop\Prueba\ProyectoWebApi\WebApi\obj\Debug\WebApi.pdb
+C:\Users\Raul\Desktop\MSCLOUDEXPERTS\ProyectoWebApi\WebApi\bin\WebApi.dll.config
+C:\Users\Raul\Desktop\MSCLOUDEXPERTS\ProyectoWebApi\WebApi\bin\WebApi.dll
+C:\Users\Raul\Desktop\MSCLOUDEXPERTS\ProyectoWebApi\WebApi\bin\WebApi.pdb
+C:\Users\Raul\Desktop\MSCLOUDEXPERTS\ProyectoWebApi\WebApi\bin\roslyn\csc.exe
+C:\Users\Raul\Desktop\MSCLOUDEXPERTS\ProyectoWebApi\WebApi\bin\roslyn\csc.exe.config
+C:\Users\Raul\Desktop\MSCLOUDEXPERTS\ProyectoWebApi\WebApi\bin\roslyn\csc.rsp
+C:\Users\Raul\Desktop\MSCLOUDEXPERTS\ProyectoWebApi\WebApi\bin\roslyn\csi.exe
+C:\Users\Raul\Desktop\MSCLOUDEXPERTS\ProyectoWebApi\WebApi\bin\roslyn\csi.exe.config
+C:\Users\Raul\Desktop\MSCLOUDEXPERTS\ProyectoWebApi\WebApi\bin\roslyn\csi.rsp
+C:\Users\Raul\Desktop\MSCLOUDEXPERTS\ProyectoWebApi\WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Raul\Desktop\MSCLOUDEXPERTS\ProyectoWebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Raul\Desktop\MSCLOUDEXPERTS\ProyectoWebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Raul\Desktop\MSCLOUDEXPERTS\ProyectoWebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Raul\Desktop\MSCLOUDEXPERTS\ProyectoWebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Raul\Desktop\MSCLOUDEXPERTS\ProyectoWebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Raul\Desktop\MSCLOUDEXPERTS\ProyectoWebApi\WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Raul\Desktop\MSCLOUDEXPERTS\ProyectoWebApi\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Raul\Desktop\MSCLOUDEXPERTS\ProyectoWebApi\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Raul\Desktop\MSCLOUDEXPERTS\ProyectoWebApi\WebApi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Raul\Desktop\MSCLOUDEXPERTS\ProyectoWebApi\WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Raul\Desktop\MSCLOUDEXPERTS\ProyectoWebApi\WebApi\bin\roslyn\System.AppContext.dll
+C:\Users\Raul\Desktop\MSCLOUDEXPERTS\ProyectoWebApi\WebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Raul\Desktop\MSCLOUDEXPERTS\ProyectoWebApi\WebApi\bin\roslyn\System.Console.dll
+C:\Users\Raul\Desktop\MSCLOUDEXPERTS\ProyectoWebApi\WebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Raul\Desktop\MSCLOUDEXPERTS\ProyectoWebApi\WebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Raul\Desktop\MSCLOUDEXPERTS\ProyectoWebApi\WebApi\bin\roslyn\System.IO.Compression.dll
+C:\Users\Raul\Desktop\MSCLOUDEXPERTS\ProyectoWebApi\WebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Raul\Desktop\MSCLOUDEXPERTS\ProyectoWebApi\WebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Raul\Desktop\MSCLOUDEXPERTS\ProyectoWebApi\WebApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Raul\Desktop\MSCLOUDEXPERTS\ProyectoWebApi\WebApi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Raul\Desktop\MSCLOUDEXPERTS\ProyectoWebApi\WebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Raul\Desktop\MSCLOUDEXPERTS\ProyectoWebApi\WebApi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Raul\Desktop\MSCLOUDEXPERTS\ProyectoWebApi\WebApi\bin\roslyn\System.Security.Claims.dll
+C:\Users\Raul\Desktop\MSCLOUDEXPERTS\ProyectoWebApi\WebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Raul\Desktop\MSCLOUDEXPERTS\ProyectoWebApi\WebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Raul\Desktop\MSCLOUDEXPERTS\ProyectoWebApi\WebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Raul\Desktop\MSCLOUDEXPERTS\ProyectoWebApi\WebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Raul\Desktop\MSCLOUDEXPERTS\ProyectoWebApi\WebApi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Raul\Desktop\MSCLOUDEXPERTS\ProyectoWebApi\WebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Raul\Desktop\MSCLOUDEXPERTS\ProyectoWebApi\WebApi\bin\roslyn\System.ValueTuple.dll
+C:\Users\Raul\Desktop\MSCLOUDEXPERTS\ProyectoWebApi\WebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Raul\Desktop\MSCLOUDEXPERTS\ProyectoWebApi\WebApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Raul\Desktop\MSCLOUDEXPERTS\ProyectoWebApi\WebApi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Raul\Desktop\MSCLOUDEXPERTS\ProyectoWebApi\WebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Raul\Desktop\MSCLOUDEXPERTS\ProyectoWebApi\WebApi\bin\roslyn\vbc.exe
+C:\Users\Raul\Desktop\MSCLOUDEXPERTS\ProyectoWebApi\WebApi\bin\roslyn\vbc.exe.config
+C:\Users\Raul\Desktop\MSCLOUDEXPERTS\ProyectoWebApi\WebApi\bin\roslyn\vbc.rsp
+C:\Users\Raul\Desktop\MSCLOUDEXPERTS\ProyectoWebApi\WebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\Raul\Desktop\MSCLOUDEXPERTS\ProyectoWebApi\WebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Raul\Desktop\MSCLOUDEXPERTS\ProyectoWebApi\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Raul\Desktop\MSCLOUDEXPERTS\ProyectoWebApi\WebApi\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\Raul\Desktop\MSCLOUDEXPERTS\ProyectoWebApi\WebApi\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Raul\Desktop\MSCLOUDEXPERTS\ProyectoWebApi\WebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Raul\Desktop\MSCLOUDEXPERTS\ProyectoWebApi\WebApi\bin\Newtonsoft.Json.dll
+C:\Users\Raul\Desktop\MSCLOUDEXPERTS\ProyectoWebApi\WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\Raul\Desktop\MSCLOUDEXPERTS\ProyectoWebApi\WebApi\bin\System.Web.Cors.dll
+C:\Users\Raul\Desktop\MSCLOUDEXPERTS\ProyectoWebApi\WebApi\bin\System.Web.Helpers.dll
+C:\Users\Raul\Desktop\MSCLOUDEXPERTS\ProyectoWebApi\WebApi\bin\System.Web.Http.Cors.dll
+C:\Users\Raul\Desktop\MSCLOUDEXPERTS\ProyectoWebApi\WebApi\bin\System.Web.Http.dll
+C:\Users\Raul\Desktop\MSCLOUDEXPERTS\ProyectoWebApi\WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\Raul\Desktop\MSCLOUDEXPERTS\ProyectoWebApi\WebApi\bin\System.Web.Mvc.dll
+C:\Users\Raul\Desktop\MSCLOUDEXPERTS\ProyectoWebApi\WebApi\bin\System.Web.Mvc.Extensions.dll
+C:\Users\Raul\Desktop\MSCLOUDEXPERTS\ProyectoWebApi\WebApi\bin\System.Web.Razor.dll
+C:\Users\Raul\Desktop\MSCLOUDEXPERTS\ProyectoWebApi\WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Raul\Desktop\MSCLOUDEXPERTS\ProyectoWebApi\WebApi\bin\System.Web.WebPages.dll
+C:\Users\Raul\Desktop\MSCLOUDEXPERTS\ProyectoWebApi\WebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\Raul\Desktop\MSCLOUDEXPERTS\ProyectoWebApi\WebApi\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\Raul\Desktop\MSCLOUDEXPERTS\ProyectoWebApi\WebApi\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Raul\Desktop\MSCLOUDEXPERTS\ProyectoWebApi\WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\Raul\Desktop\MSCLOUDEXPERTS\ProyectoWebApi\WebApi\bin\System.Web.Helpers.xml
+C:\Users\Raul\Desktop\MSCLOUDEXPERTS\ProyectoWebApi\WebApi\bin\System.Web.Http.xml
+C:\Users\Raul\Desktop\MSCLOUDEXPERTS\ProyectoWebApi\WebApi\bin\System.Web.Http.Cors.xml
+C:\Users\Raul\Desktop\MSCLOUDEXPERTS\ProyectoWebApi\WebApi\bin\System.Web.Mvc.xml
+C:\Users\Raul\Desktop\MSCLOUDEXPERTS\ProyectoWebApi\WebApi\bin\System.Web.Mvc.Extensions.xml
+C:\Users\Raul\Desktop\MSCLOUDEXPERTS\ProyectoWebApi\WebApi\bin\System.Web.Razor.xml
+C:\Users\Raul\Desktop\MSCLOUDEXPERTS\ProyectoWebApi\WebApi\bin\System.Web.WebPages.xml
+C:\Users\Raul\Desktop\MSCLOUDEXPERTS\ProyectoWebApi\WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Raul\Desktop\MSCLOUDEXPERTS\ProyectoWebApi\WebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\Raul\Desktop\MSCLOUDEXPERTS\ProyectoWebApi\WebApi\bin\Newtonsoft.Json.xml
+C:\Users\Raul\Desktop\MSCLOUDEXPERTS\ProyectoWebApi\WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\Raul\Desktop\MSCLOUDEXPERTS\ProyectoWebApi\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Raul\Desktop\MSCLOUDEXPERTS\ProyectoWebApi\WebApi\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Raul\Desktop\MSCLOUDEXPERTS\ProyectoWebApi\WebApi\bin\es\System.Web.Http.resources.dll
+C:\Users\Raul\Desktop\MSCLOUDEXPERTS\ProyectoWebApi\WebApi\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Raul\Desktop\MSCLOUDEXPERTS\ProyectoWebApi\WebApi\obj\Debug\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Raul\Desktop\MSCLOUDEXPERTS\ProyectoWebApi\WebApi\obj\Debug\WebApi.csproj.CopyComplete
+C:\Users\Raul\Desktop\MSCLOUDEXPERTS\ProyectoWebApi\WebApi\obj\Debug\WebApi.dll
+C:\Users\Raul\Desktop\MSCLOUDEXPERTS\ProyectoWebApi\WebApi\obj\Debug\WebApi.pdb
